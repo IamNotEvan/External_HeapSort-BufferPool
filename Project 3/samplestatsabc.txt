@@ -1,0 +1,84 @@
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 432
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 548
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 460
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 538
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 436
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 555
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 509
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 593
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 394
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 649
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 713
+------  STATS ------
+File name: sampleBlock10.bin
+Cache Hits: 1040430
+Cache Misses: 11510
+Disk Reads: 11510
+Disk Writes: 11510
+Time to sort: 570
